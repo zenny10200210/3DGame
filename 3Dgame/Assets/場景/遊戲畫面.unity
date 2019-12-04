@@ -2288,9 +2288,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 967390944}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e4f186f831d1f724f93a8adec70f7a6d, type: 3}
+  m_Script: {fileID: 11500000, guid: df6cfd6d496ccda449feace5a3ec5c8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  openDoor: 0
+  score: 0
+  hit: 0
 --- !u!4 &967390946
 Transform:
   m_ObjectHideFlags: 0
